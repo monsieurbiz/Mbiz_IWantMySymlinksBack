@@ -1,0 +1,4 @@
+#Mbiz_IWantMySymlinksBack
+app/etc/modules/Mbiz_IWantMySymlinksBack.xml app/etc/modules/Mbiz_IWantMySymlinksBack.xml
+app/code/community/Mbiz/IWantMySymlinksBack app/code/community/Mbiz/IWantMySymlinksBack
+app/design/adminhtml/base/default/layout/mbiz_iwantmysymlinksback.xml app/design/adminhtml/base/default/layout/mbiz_iwantmysymlinksback.xml

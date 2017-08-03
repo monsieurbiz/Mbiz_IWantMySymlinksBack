@@ -1,0 +1,15 @@
+{
+  "name": "monsieurbiz/mbiz_iwantmysymlinksback",
+  "description": "Magento module which re-activate the Allow Symlinks configuration in backend",
+  "type": "magento-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Maxime Huran",
+      "email": "m.huran@monsieurbiz.com"
+    }
+  ],
+  "suggest": {
+    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency."
+  }
+}

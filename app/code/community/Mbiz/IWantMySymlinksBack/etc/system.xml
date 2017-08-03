@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+/**
+ * This file is part of Mbiz_IWantMySymlinksBack for Magento.
+ *
+ * @license MIT
+ * @author Maxime Huran <m.huran@monsieurbiz.com> <@MaximeHuran>
+ * @category Mbiz
+ * @package Mbiz_IWantMySymlinksBack
+ * @copyright Copyright (c) 2017 Monsieur Biz (https://monsieurbiz.com/)
+ */
+-->
+<config>
+    <sections>
+        <dev>
+            <groups>
+                <template>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+                        <allow_symlink translate="label comment">
+                            <backend_model>core/config_data</backend_model>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </allow_symlink>
+                    </fields>
+                </template>
+            </groups>
+        </dev>
+    </sections>
+</config>
